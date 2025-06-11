@@ -198,9 +198,8 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 ## 🆘 Suporte
 
 Para suporte e dúvidas:
-
 - Abra uma issue no GitHub
 - Consulte o [Manual do Usuário](MANUAL_USUARIO.md)
-- Entre em contato: lasmg93@hotmail.com
-  
+- Entre em contato: seu-email@exemplo.com
+
 **Desenvolvido para pequenos negócios de produtos**
