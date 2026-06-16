@@ -40,7 +40,7 @@ Um sistema completo e moderno para gerenciamento de estoque e orçamento, desenv
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/gestoque.git
+git clone https://github.com/leandrodevsilva/gestoque.git
 cd estoque
 ```
 
@@ -200,6 +200,6 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 Para suporte e dúvidas:
 - Abra uma issue no GitHub
 - Consulte o [Manual do Usuário](MANUAL_USUARIO.md)
-- Entre em contato: seu-email@exemplo.com
+- Entre em contato: lasmg93@outlook.com
 
 **Desenvolvido para pequenos negócios de produtos**
